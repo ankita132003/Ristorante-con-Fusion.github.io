@@ -1,0 +1,43 @@
+
+.footer{
+    background-color: #dab9e5;
+     margin: 0px auto; 
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background-color: #d083d7;
+    color: floralwhite;
+}
+.navbar-dark{
+    background-color: rgb(107, 37, 129);
+}
+.row-header{
+    padding-left: 70px ;
+    padding-right: 70px;
+}
+.row-content{
+    /* margin: 0px auto; */
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+.thead-dark{
+    background-color: black;
+    color: white;
+}
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding:10px ;
+}
+.tab-panel{
+    margin-bottom: 30px;
+}
+
+.accordion-button{
+    background-color: #c9c2c2;
+    color: blue;
+}

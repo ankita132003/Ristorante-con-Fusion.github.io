@@ -1,0 +1,27 @@
+.address{
+    padding: 50px;
+}
+
+.jumbotron{
+     /* margin: 0px auto; */
+    padding: 70px 30px 70px 30px; 
+    background-color: rgb(94, 40, 40);
+    color: floralwhite;
+}
+.navbar-dark{
+    background-color: rgb(171, 152, 152);
+    color: aqua;
+}
+.row-content{
+  padding-top:20px;
+
+}
+
+.footer{
+    background-color: #b67070;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.feedback{
+    margin-bottom: 50px;
+}
